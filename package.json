@@ -1,6 +1,6 @@
 {
     "name": "oidc-sdk",
-    "version": "0.0.0",
+    "version": "0.0.1-rc.1",
     "description": "Booking the npm domain name",
     "repository": {
         "type": "git",
